@@ -1,39 +1,64 @@
 # Requirements
 ## Introduction
- --- TBD 
+ * Students form a major part of any institution that concerns with. There are records that have to be maintained. But the institution finds it difficult to maintain large records of so many students of the organization. Huge heap files will be required. Plus there is no guarantee of such data in huge heap of files.
+ * Hence, to prevent these issues, I thought of making a Student Record System to help in quickly accessing and updating the data of students at a single place making it time efficient.
 
 ## Research
-![Description](Link to Pic)
--- Content 
+## THE STUDENT RECORD SYSTEM
+The student record system will help in managing students reports. It will help in saving time and effort. The information of the system will be handled in just one click.
+* Student Database Management
+The details of the students of the organisation can be stored in the database with the application.
+* Results
+The marksheet of the students can also be accesed and stored through this application.
+* Performance
+The performance of the students can be stored through this application.
+* One click access
+ It uses files as database to perform file handling operations such as add, search, modify and delete records to manage students’ records with just a click.
+
 ## Cost and Features
 ![Description](Link to Pic)
--- Content 
+Cost and Features
 ## Defining Our System
-    -- TBD
+![image](https://user-images.githubusercontent.com/80762665/114088219-6d587580-98d2-11eb-8db6-29c8e7f64cbc.png)
+Simple functions have been to manipulate data structure and file handling, so here I will just list the features of this project.
+* Add student record
+* Search student record
+* Modify student record
+* Generate marksheet (also see: student report card system project in C++)
+* Delete student record
+* Change password
+
+The functions listed below have been used to produce background with color effects. They are described in the source code with comments.
+
+void SetColor(int ForgC)
+void ClearConsoleToColors(int ForgC, int BackC)
+void SetColorAndBackground(int ForgC, int BackC)
+
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![image](https://user-images.githubusercontent.com/80762665/114082952-05069580-98cc-11eb-9ba8-6246f9012f64.png)
+
 
 # 4W&#39;s and 1&#39;H
 
 ## Who:
 
-**TBD**
+The students records will be maintained in the system. The faculties will maintain the records in the system.
 
 ## What:
 
-**TBD**
+It uses files as database to perform file handling operations such as add, search, modify and delete records to manage students’ records. In this project, mark-sheet for students can also be generated.
 
 ## When:
 
-**TBD**
+The student record—in form and content—is the product of an on-going series of compromises played out over many decades across multiple institutions, organizations, and locales. Therefore, to think about the student record is to think about a complex and overlapping jurisdictional space that students move through as they receive their education from a variety of different educational institutions, at a variety of attainment levels, in a variety of places. This space is governed by negotiations between and within these educational sectors, these sectors and the state, and these sectors and the students they serve—and the student record a permanent record of those treaties. Thus, to view the student record historically, is, in many respects, to view the compromises that helped give shape to the educational system, its institutions, its functions, its academic currencies, and its charges.
 
 ## Where:
-
-**TBD**
+* It is implemented across the world to maintain the student records. 
+* Given the student record’s location within the education system, it is only a slight exaggeration to say that a convening that seeks to re-imagine the student record also sets itself the task of re-imagining fundamental aspects of the education system: the definition of a student; the definition of educational achievement; the currency of achievement and the institutions that can issue it.
 
 ## How:
-
-**TBD**
+* The student record does seem like the boundary object par excellence—providing the kind of basic structure to make complex organizational work possible while providing the flexibility to make local variation possible and subsequent renegotiation and re-codification all but inevitable. It is certainly in this spirit—renegotiation, re-imagination—that this convening was called. 
+* Here, a console window is virtually divided into 2 parts – one is static and it does not change, while the other is dynamic and it changes from time to time. 
 
 # Detail requirements
 ## High Level Requirements:
