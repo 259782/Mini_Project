@@ -16,11 +16,19 @@ The performance of the students can be stored through this application.
  It uses files as database to perform file handling operations such as add, search, modify and delete records to manage students’ records with just a click.
 
 ## Cost and Features
-![Description](Link to Pic)
+### Features
+* The system captures and stores student’s records.
+* The system generates all Students marksheet automatically.
+* The admin can modify and update the records.
+### Ageing
+* If the first period was about system building and the second period was about its expansion and the internal renegotiation—among students and schools, and schools and each other—that massification required, the current period is characterized by new external demands that have been placed on the system by several forms of accountability: privacy, equity, and efficiency. 
+* Though all of these pressures predate the current period in some form, major shifts in American political dynamics and in the availability of computing power and digital technologies have converged to amplify old concerns and produce new ones. 
+* The major upshot of these developments has been to make the student record not just an object of internal (re-)negotiation among postsecondary institutions but one subject to external demands as well. Considering these new developments in-light of the broader history detailed above provides an opportunity to identify the new opportunities as well as the chronic challenges ushered in by the digital era of the student record.
+
 Cost and Features
 ## Defining Our System
 ![image](https://user-images.githubusercontent.com/80762665/114088219-6d587580-98d2-11eb-8db6-29c8e7f64cbc.png)
-Simple functions have been to manipulate data structure and file handling, so here I will just list the features of this project.
+Simple functions have been used to manipulate data structure and file handling, so here I will just list the features of this project.
 * Add student record
 * Search student record
 * Modify student record
