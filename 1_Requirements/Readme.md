@@ -71,7 +71,12 @@ The student record—in form and content—is the product of an on-going series 
 # Detail requirements
 ## High Level Requirements:
 --- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+-- S1 | User shall be able to add student records | Implemented (Implemented/Future)
+-- S2 | User shall be able to modify student records | Implemented
+-- S3 | User shall be able to search student records | Implemented
+-- S4 | User shall be able to generate marsksheet | Implemented
+-- S5 | User shall be able to delete student records | Implemented
+-- S6 | User shall be able to change passwords | Implemented
 
 
 ##  Low level Requirements:
