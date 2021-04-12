@@ -84,5 +84,13 @@ ID    | DESCRIPTION | STATUS
 ---  | ---
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+ID    | DESCRIPTION | Reference ID| STATUS
+---   | ---         | ---         | ---
+L1 | The user will be asked to enter their details such as Id, Name, Address and Class | S1 | Implemented
+L2 | The user will be asked to enter the ID to search records in the system. He will be then able to see the details of the student corresponding to the student ID | S2 | Implemented
+L3 | The user will be asked to enter the particular Id which he wants to modify and then the user will be asked to enter new details such as Id, Name, Address and Class | S3 | Implemented
+L4 | The user will be able to generate the marksheet | S4 | Future
+L5 | The user will be asked to enter the Student record Id that he wants to delete. That particular record will be deleted | S5 | Implemented
+L6 | The user will be asked to enter user name and password and then create new password | S6 | Future
+
