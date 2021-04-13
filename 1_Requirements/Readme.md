@@ -18,7 +18,7 @@ The performance of the students can be stored through this application.
 ## Cost and Features
 ### Features
 * The system captures and stores student’s records.
-* The system generates all Students marksheet automatically.
+* The system can delete the records.
 * The admin can modify and update the records.
 ### Ageing
 * If the first period was about system building and the second period was about its expansion and the internal renegotiation—among students and schools, and schools and each other—that massification required, the current period is characterized by new external demands that have been placed on the system by several forms of accountability: privacy, equity, and efficiency. 
@@ -32,9 +32,7 @@ Simple functions have been used to manipulate data structure and file handling, 
 * Add student record
 * Search student record
 * Modify student record
-* Generate marksheet (also see: student report card system project in C++)
 * Delete student record
-* Change password
 
 The functions listed below have been used to produce background with color effects. They are described in the source code with comments.
 
@@ -77,11 +75,10 @@ ID    | DESCRIPTION | STATUS
 | S1 | User shall be able to add student records    | Implemented |
 | S2 | User shall be able to modify student records | Implemented |
 | S3 | User shall be able to search student records | Implemented |
-| S4 | User shall be able to generate marsksheet    | Implemented |
-| S5 | User shall be able to delete student records | Implemented |
-| S6 | User shall be able to change passwords       | Implemented |
+| S4 | User shall be able to delete student records | Implemented |
 
----  | ---
+
+
 
 ##  Low level Requirements:
 
@@ -90,7 +87,5 @@ ID    | DESCRIPTION | Reference ID| STATUS
 L1 | The user will be asked to enter their details such as Id, Name, Address and Class | S1 | Implemented
 L2 | The user will be asked to enter the ID to search records in the system. He will be then able to see the details of the student corresponding to the student ID | S2 | Implemented
 L3 | The user will be asked to enter the particular Id which he wants to modify and then the user will be asked to enter new details such as Id, Name, Address and Class | S3 | Implemented
-L4 | The user will be able to generate the marksheet | S4 | Future
-L5 | The user will be asked to enter the Student record Id that he wants to delete. That particular record will be deleted | S5 | Implemented
-L6 | The user will be asked to enter user name and password and then create new password | S6 | Future
+L4 | The user will be asked to enter the Student record Id that he wants to delete. That particular record will be deleted | S4 | Implemented
 
