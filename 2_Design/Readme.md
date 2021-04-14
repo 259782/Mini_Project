@@ -8,7 +8,7 @@
 
 
 ### Component Diagram
-
+![image](https://user-images.githubusercontent.com/80762665/114733753-429e6f00-9d61-11eb-8685-c6191ccaad8c.png)
 
 
 ### Use Case Diagram
