@@ -20,3 +20,7 @@
 ### USE CASE DIAGRAM
 ![image](https://user-images.githubusercontent.com/80762665/114992208-206b3500-9eb8-11eb-9f4a-022d72cac0f3.png)
 
+## Low Level Diagram
+![image](https://user-images.githubusercontent.com/80762665/115015120-d5115080-9ed0-11eb-827b-ce2b1a6eba2a.png)
+
+
