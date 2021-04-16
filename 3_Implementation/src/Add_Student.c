@@ -1,6 +1,6 @@
 /**
  * @file Add_Student.c
- * @author JAHNAVI JHA
+ * @author JAHNAVI JHA credits:Preet Pandit
  * @brief 
  * @version 0.1
  * @date 2021-04-12
@@ -23,7 +23,7 @@ int Add_Student(Student_t *Student) {
   }
   fwrite(Student, sizeof(Student_t), 1, fptr);
 
-  __fpurge(stdin);
+  fflush(stdin);
   fclose(fptr);
 
   return 0;

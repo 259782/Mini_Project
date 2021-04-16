@@ -25,7 +25,7 @@ int Modify_Student(char *name, Student_t *update_Student) {
 
     while (fread(&old_Student, sizeof(Student_t), 1, fptr) == 1) {
       if (strcmp(name, old_Student.name) == 0) {
-        fseek(fptr, -sizeof(Student_t), SEEK_CUR);
+        fseek(fptr, sizeof(Student_t), SEEK_CUR);
         fwrite(update_Student, sizeof(Student_t), 1, fptr);
         flag = 1;
         break;

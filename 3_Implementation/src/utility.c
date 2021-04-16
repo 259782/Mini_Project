@@ -15,7 +15,7 @@ void get_data(char *name) {
 
   int i = 0, j;
   char c, ch;
-  __fpurge(stdin);
+  fflush(stdin);
   do {
     c = getchar();
     if (c != '\n') {
@@ -38,28 +38,28 @@ void get_data(char *name) {
 
 void get_Student_details(Student_t *Student) {
   printf("\nEnter name: ");
-  __fpurge(stdin);
+  fflush(stdin);
   get_data(Student->name);
 
   printf("\nEnter the Standard: ");
-  __fpurge(stdin);
+  fflush(stdin);
   get_data(Student->standard);
 
   printf("\nEnter Email ID: ");
-  __fpurge(stdin);
+  fflush(stdin);
   get_data(Student->email_id);
 
   printf("\nEnter roll no.: ");
-  __fpurge(stdin);
+  fflush(stdin);
   get_data(Student->roll_no);
 
   
   printf("\nEnter GPA.: ");
-  __fpurge(stdin);
+  fflush(stdin);
   get_data(Student->GPA);
 
   
   printf("\nEnter Sports: ");
-  __fpurge(stdin);
+  fflush(stdin);
   get_data(Student->sports);
 }

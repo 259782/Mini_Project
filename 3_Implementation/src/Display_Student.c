@@ -11,9 +11,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "display_Student.h"
+#include "Display_Student.h"
 
-int display_Student(void) {
+int Display_Student(void) {
   Student_t Student;
   FILE *fptr;
   int count = 0;
