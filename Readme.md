@@ -22,7 +22,7 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-259782 | JAHNAVI JHA  | Add,Delete,Modify, Display    |     |    |5  | 5     
+259782 | JAHNAVI JHA  | Add,Delete,Modify, Display    |  -   |   - |5  | 5     
 
 
 ## Challenges Faced and How Was It Overcome
