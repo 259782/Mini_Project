@@ -7,7 +7,7 @@ Visit [Pages for Report -optional](using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-
+[![C/C++ CI](https://github.com/259782/Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/259782/Mini_Project/actions/workflows/c-cpp.yml)
 
 
 ## Folder Structure
