@@ -30,6 +30,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 1. Multifile 
 2. Unit Test Cases
 3. Make File
+4. Had issues in building badges, could resolve it with the help of my colleagues.
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
