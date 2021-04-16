@@ -1,10 +1,13 @@
 # SDLC Activity Based Learning
 
+![image](https://user-images.githubusercontent.com/80762665/114990936-a71f1280-9eb6-11eb-8be0-4c09e00d47d6.png)
+
+
 Visit [Pages for Report -optional](using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)
+
 
 
 ## Folder Structure
@@ -19,15 +22,14 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-259782 | JAHNAVI JHA  | Feature A, B etc    | X No     | X No   |X No   |X No     
+259782 | JAHNAVI JHA  | Add,Delete,Modify, Display    |     |    |5  | 5     
 
 
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
-3. ...
-4. ...
+1. Multifile 
+2. Unit Test Cases
+3. Make File
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
