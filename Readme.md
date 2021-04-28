@@ -5,9 +5,9 @@
 
 Visit [Pages for Report -optional](using github.io option)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
+Build | Code Quality | Cppcheck |
 ------|----------|-------|--------------
-[![C/C++ CI](https://github.com/259782/Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/259782/Mini_Project/actions/workflows/c-cpp.yml)| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ad8986d99bb344c5b54e87a63227464a)](https://www.codacy.com/gh/259782/Mini_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=259782/Mini_Project&amp;utm_campaign=Badge_Grade)
+[![C/C++ CI](https://github.com/259782/Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/259782/Mini_Project/actions/workflows/c-cpp.yml)| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ad8986d99bb344c5b54e87a63227464a)](https://www.codacy.com/gh/259782/Mini_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=259782/Mini_Project&amp;utm_campaign=Badge_Grade)|[![cppcheck-action](https://github.com/259782/Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/259782/Mini_Project/actions/workflows/cppcheck.yml)|
 
 
 ## Folder Structure
